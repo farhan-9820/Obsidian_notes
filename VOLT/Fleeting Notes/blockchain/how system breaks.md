@@ -1,7 +1,6 @@
 # Crash fault tolerance 
 
 - [[crash fault tolerance]]
-- 
 
 # Byzantine Fault tolerance 
 
