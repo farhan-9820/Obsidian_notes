@@ -1,2 +1,0 @@
-- here they use [[consensus mechanism ]]
-- 
