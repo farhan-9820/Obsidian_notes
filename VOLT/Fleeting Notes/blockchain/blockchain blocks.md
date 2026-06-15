@@ -1,0 +1,3 @@
+- collection of data - sender, receiver and amount 
+- Hash 
+	- cryptographic string of character (one character changes whole hash completely)

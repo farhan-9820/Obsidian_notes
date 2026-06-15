@@ -1,0 +1,2 @@
+- No deterministic consensus protocol can guarantee both safety and liveness if even a single node is allowed to fail without announcement. 
+- there has to be a trade off in real world 

@@ -1,0 +1,2 @@
+- maybe kind of a like a single joined linked list? 
+- one linked cannot be changed without changing all the previous blocks. 
