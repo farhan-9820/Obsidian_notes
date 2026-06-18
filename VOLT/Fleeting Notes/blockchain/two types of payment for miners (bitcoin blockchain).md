@@ -1,0 +1,3 @@
+- **The Block Reward (New Currency):** This is the newly minted Bitcoin created out of nothing by the system rulebook (originally 50 BTC, halving every 4 years. In 2026, it is **3.125 BTC** per block).
+    
+- **Transaction Fees (Existing Currency):** This is the small tip you attach to your transaction. This part does _not_ create new currency; it just transfers a tiny amount of your existing Bitcoin to the miner as an extra thank you for processing your specific transfer.

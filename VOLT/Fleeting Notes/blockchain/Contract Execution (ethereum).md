@@ -1,0 +1,1 @@
+This is how you interact with Decentralized Applications (dApps). You set the `To` field to a Contract Account (like Uniswap). You populate the `Data` field with binary instructions telling the contract which of its internal functions to run. The EVM wakes up the contract, reads the code, executes the math, and updates the global ledger state accordingly.

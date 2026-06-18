@@ -1,0 +1,1 @@
+The simplest transaction. You fill in the `To` field with a friend's EOA address, specify the `Value`, and leave `Data` blank. The network simply subtracts $X$ ETH from your account balance and adds $X$ ETH to theirs.

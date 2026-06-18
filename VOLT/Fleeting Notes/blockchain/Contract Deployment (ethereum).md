@@ -1,0 +1,1 @@
+When a developer wants to put an app on Ethereum, they send a transaction where the `To` field is completely **empty**, and the `Data` field contains the compiled code of the smart contract. The Ethereum Virtual Machine (EVM) reads this, generates a brand new **Contract Account** address, and writes the code into it permanently.

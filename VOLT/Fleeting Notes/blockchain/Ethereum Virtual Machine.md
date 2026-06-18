@@ -1,0 +1,1 @@
+In theoretical design, smart contracts run inside a virtual "sandbox" (like the Ethereum Virtual Machine, or EVM). The code is completely isolated from the host computer’s file system, internet connection, or other processes. This ensures security; a smart contract cannot accidentally (or maliciously) download a virus onto the computers running the blockchain.
