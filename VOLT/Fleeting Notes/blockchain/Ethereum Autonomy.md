@@ -1,0 +1,1 @@
+Traditional contracts are _reactive_—if one party breaks a lease, the landlord must actively sue them in court. Smart contracts are _proactive_. They don't need a third party to execute them. If the code says, _"Transfer ownership of Asset X on day 30,"_ the network will automatically move the asset on day 30 without human intervention.

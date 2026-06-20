@@ -1,0 +1,1 @@
+Once a smart contract is deployed to a blockchain, its source code **cannot be changed, deleted, or modified**—not even by the person who wrote it. It becomes a permanent law of the digital environment. If there is a bug in the code, that bug is now a permanent feature of the contract until an entirely new contract is deployed to a new address.

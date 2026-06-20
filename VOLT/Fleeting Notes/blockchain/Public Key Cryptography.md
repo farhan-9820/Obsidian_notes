@@ -1,5 +1,7 @@
 In traditional systems, you prove your identity with a username and password. If someone steals your password, they steal your identity. Public-Key Cryptography (PKC) solves this by using a mathematically linked pair of cryptographic keys: a **Public Key** and a **Private Key**.
 
+also known as --> ***Asymmetric Cryptography*** 
+
 - **The Math:** This relies on "one-way mathematical functions" (like multiplying two massive prime numbers). It is incredibly easy to calculate one way, but computationally impossible to reverse engineer.
     
 - **The Public Key:** This is like your email address or bank account number. Anyone can see it, and anyone can use it to send you data.

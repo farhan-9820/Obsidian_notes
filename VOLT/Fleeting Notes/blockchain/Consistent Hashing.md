@@ -1,0 +1,3 @@
+When modern web applications (like Netflix or Amazon) scale up, they use multiple servers to store data. If you use standard hashing to distribute data across 4 servers, and one server crashes, the math breaks, and almost all your data has to be re-shuffled.
+
+**Consistent Hashing** maps both the data and the servers onto a conceptual circle (a "hash ring"). Data is assigned to the nearest server moving clockwise. If a server is added or removed, only a tiny fraction of the data needs to be moved, preventing massive system overloads.
