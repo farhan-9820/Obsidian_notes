@@ -6,7 +6,7 @@ Ethereum Transactions:
 2. [[Contract Deployment (ethereum)]]
 3. [[Contract Execution (ethereum)]]
 
-	[[ The modern shift-> Account Abstraction (ethereum)]]
+	[[The modern shift_Account Abstraction (ethereum)]]
 
 
 

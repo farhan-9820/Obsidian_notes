@@ -15,7 +15,7 @@
 
 [[State Machine Concept (Ethereum) | State Machine Concept]]
 
-[[Halting Problem and 'Gas']]
+[[Halting Problem and Gas]]
 
 
 
