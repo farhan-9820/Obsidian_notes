@@ -1,0 +1,3 @@
+Before a computer can participate in the Ethereum network, it needs the software that allows it to speak the "Ethereum language."
+
+This step involves using a terminal/command line to download and install an **Ethereum Client**. The most common client is **Geth (Go-Ethereum)**. Installing these services equips the computer with the necessary protocols, cryptographic tools, and command-line interfaces (CLIs) to turn a regular machine into a blockchain machine.

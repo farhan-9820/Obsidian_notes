@@ -7,3 +7,5 @@
     
 - **Enhanced Privacy:** Because read access can be strictly restricted, sensitive corporate or personal data isn’t broadcasted to the entire world.
 
+
+

@@ -19,3 +19,27 @@
 
 
 
+### Design Objectives 
+
+According to szabo --> 
+
+[[Observality (smart contracts) | observality]]
+
+[[Verifitability (smart contract) | veriftability]]
+
+[[Privity (smart contract) | Privity]]
+
+[[Enforceability (smart contract) | Enforceability]]
+
+
+
+### Links with 
+
+[[02. cryptography]]
+
+
+
+
+## test driven development 
+
+[[test driven development for smart contracts]]
