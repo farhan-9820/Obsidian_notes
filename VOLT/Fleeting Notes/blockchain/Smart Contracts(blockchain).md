@@ -43,3 +43,9 @@ According to szabo -->
 ## test driven development 
 
 [[test driven development for smart contracts]]
+
+
+## Events 
+
+[[events for smart contracts|events]]
+
