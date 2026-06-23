@@ -82,3 +82,9 @@ Think of **Bitcoin** as the ultimate, unchangeable bedrock of digital value—th
 [[Ethereum Block Structure]]
 
 
+#### Ethereum Request for Comments 
+
+[[ERC20]]
+
+[[ERC721]]
+
