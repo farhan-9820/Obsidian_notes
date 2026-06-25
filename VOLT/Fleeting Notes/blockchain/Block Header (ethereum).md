@@ -12,3 +12,46 @@ The header contains metadata that validates the block’s placement in history.
 - **Proposer Index:** The numerical ID of the validator who was chosen to build the block.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
